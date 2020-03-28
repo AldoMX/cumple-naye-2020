@@ -1,7 +1,7 @@
 {
   "name": "cumple-naye-2020",
   "version": "1.0.0",
-  "homepage": "http://AldoMX.github.io/cumple-naye-2020",
+  "homepage": "https://aldomx.github.io/cumple-naye-2020/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.2.0",

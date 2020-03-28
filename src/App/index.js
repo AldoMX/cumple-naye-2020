@@ -1,5 +1,10 @@
 import React, { useState } from 'react';
 import { Player } from './Player';
+import title from '../images/title.png';
+import subtitle from '../images/subtitle.png';
+import present1 from '../images/present1.png';
+import present2 from '../images/present2.png';
+import present3 from '../images/present3.png';
 import './main.css';
 
 function shuffle(array) {
@@ -22,7 +27,8 @@ function shuffle(array) {
   return array;
 }
 
-const regalos = shuffle(['aldo', 'angie', 'ulises']);
+const presents = shuffle(['aldo', 'angie', 'ulises']);
+const presentImages = shuffle([present1, present2, present3]);
 
 function App() {
   const [videoId, setVideoId] = useState('');
@@ -31,17 +37,17 @@ function App() {
     <>
     <div className="App">
       <div className="title">
-        <img alt="¡Feliz Cumpleaños Nayely!" src="/images/title.png" />
+        <img alt="¡Feliz Cumpleaños Nayely!" src={title} />
       </div>
       <div className="subtitle">
-        <img alt="Elige tu regalo" src="/images/subtitle.png" />
+        <img alt="Elige tu regalo" src={subtitle} />
       </div>
       <div className="presents">
-        {regalos.map((videoId, i) => {
-          const alt = `Regalo #${i + 1}`;
-          const src = `/images/present${i + 1}.png`;
-          return <div key={videoId} onClick={handleClick(videoId)}><img alt={alt} src={src} /></div>;
-        })}
+        {presents.map((videoId, i) => (
+          <div key={videoId} onClick={handleClick(videoId)}>
+            <img alt={`Regalo #${i + 1}`} src={presentImages[i]} />
+          </div>
+        ))}
       </div>
     </div>
     <Player handleClose={handleClick('')} videoId={videoId} />

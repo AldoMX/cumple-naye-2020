@@ -8,7 +8,7 @@ const sources = {
     type: 'video',
     sources: [
       {
-        src: 'https://rawcdn.githack.com/AldoMX/cumple-naye-2020/876aa8dfb0e42db131b70ea43c1714f8da0c0a17/public/videos/WhatsApp%20Video%202020-03-27%20at%2011.55.50%20PM.mp4',
+        src: 'https://rawcdn.githack.com/AldoMX/cumple-naye-2020/6dfe8cc6a2be48f29be7b974406a2c378e05965a/public/videos/WhatsApp%20Video%202020-03-27%20at%2011.55.50%20PM.mp4',
         type: 'video/mp4',
         size: 720,
       },
@@ -18,7 +18,7 @@ const sources = {
     type: 'video',
     sources: [
       {
-        src: 'https://rawcdn.githack.com/AldoMX/cumple-naye-2020/876aa8dfb0e42db131b70ea43c1714f8da0c0a17/public/videos/WhatsApp%20Video%202020-03-27%20at%208.41.14%20PM.mp4',
+        src: 'https://rawcdn.githack.com/AldoMX/cumple-naye-2020/6dfe8cc6a2be48f29be7b974406a2c378e05965a/public/videos/WhatsApp%20Video%202020-03-27%20at%208.41.14%20PM.mp4',
         type: 'video/mp4',
         size: 480,
       },
@@ -28,7 +28,7 @@ const sources = {
     type: 'video',
     sources: [
       {
-        src: 'https://rawcdn.githack.com/AldoMX/cumple-naye-2020/876aa8dfb0e42db131b70ea43c1714f8da0c0a17/public/videos/WhatsApp%20Video%202020-03-27%20at%209.37.19%20PM.mp4',
+        src: 'https://rawcdn.githack.com/AldoMX/cumple-naye-2020/6dfe8cc6a2be48f29be7b974406a2c378e05965a/public/videos/WhatsApp%20Video%202020-03-27%20at%209.37.19%20PM.mp4',
         type: 'video/mp4',
         size: 352,
       },

@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App .title img {
+  max-width: 75vw;
+}
+
+.App .subtitle img {
+  max-width: 50vw;
+}
+
+.App .presents {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.App .presents > div {
+  border-radius: 25px;
+  padding: 25px 0;
+}
+
+.App .presents > div:hover {
+  cursor: pointer;
+  background-color: rgba(254, 250, 238, 1.0);
+}
+
+.App .presents img {
+  max-width: 25vw;
+}

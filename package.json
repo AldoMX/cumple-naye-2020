@@ -1,0 +1,35 @@
+{
+  "name": "cumple-naye-2020",
+  "version": "1.0.0",
+  "homepage": "http://AldoMX.github.io/cumple-naye-2020",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^2.2.0",
+    "plyr": "^3.5.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

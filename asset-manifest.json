@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cumple-naye-2020/static/css/main.85661999.chunk.css",
+    "main.js": "/cumple-naye-2020/static/js/main.32986353.chunk.js",
+    "main.js.map": "/cumple-naye-2020/static/js/main.32986353.chunk.js.map",
+    "runtime-main.js": "/cumple-naye-2020/static/js/runtime-main.c8e3eab6.js",
+    "runtime-main.js.map": "/cumple-naye-2020/static/js/runtime-main.c8e3eab6.js.map",
+    "static/css/2.3beecd4b.chunk.css": "/cumple-naye-2020/static/css/2.3beecd4b.chunk.css",
+    "static/js/2.78b6890d.chunk.js": "/cumple-naye-2020/static/js/2.78b6890d.chunk.js",
+    "static/js/2.78b6890d.chunk.js.map": "/cumple-naye-2020/static/js/2.78b6890d.chunk.js.map",
+    "index.html": "/cumple-naye-2020/index.html",
+    "precache-manifest.a6bd22fbd96aa514e551229923c29ed5.js": "/cumple-naye-2020/precache-manifest.a6bd22fbd96aa514e551229923c29ed5.js",
+    "service-worker.js": "/cumple-naye-2020/service-worker.js",
+    "static/css/2.3beecd4b.chunk.css.map": "/cumple-naye-2020/static/css/2.3beecd4b.chunk.css.map",
+    "static/css/main.85661999.chunk.css.map": "/cumple-naye-2020/static/css/main.85661999.chunk.css.map",
+    "static/js/2.78b6890d.chunk.js.LICENSE.txt": "/cumple-naye-2020/static/js/2.78b6890d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e3eab6.js",
+    "static/css/2.3beecd4b.chunk.css",
+    "static/js/2.78b6890d.chunk.js",
+    "static/css/main.85661999.chunk.css",
+    "static/js/main.32986353.chunk.js"
+  ]
+}

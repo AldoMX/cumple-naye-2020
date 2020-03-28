@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/cumple-naye-2020/static/css/main.ef02dbd6.chunk.css",
-    "main.js": "/cumple-naye-2020/static/js/main.59711f6e.chunk.js",
-    "main.js.map": "/cumple-naye-2020/static/js/main.59711f6e.chunk.js.map",
+    "main.css": "/cumple-naye-2020/static/css/main.fc08b57c.chunk.css",
+    "main.js": "/cumple-naye-2020/static/js/main.e1ba021f.chunk.js",
+    "main.js.map": "/cumple-naye-2020/static/js/main.e1ba021f.chunk.js.map",
     "runtime-main.js": "/cumple-naye-2020/static/js/runtime-main.c8e3eab6.js",
     "runtime-main.js.map": "/cumple-naye-2020/static/js/runtime-main.c8e3eab6.js.map",
     "static/css/2.3beecd4b.chunk.css": "/cumple-naye-2020/static/css/2.3beecd4b.chunk.css",
-    "static/js/2.78b6890d.chunk.js": "/cumple-naye-2020/static/js/2.78b6890d.chunk.js",
-    "static/js/2.78b6890d.chunk.js.map": "/cumple-naye-2020/static/js/2.78b6890d.chunk.js.map",
+    "static/js/2.56377715.chunk.js": "/cumple-naye-2020/static/js/2.56377715.chunk.js",
+    "static/js/2.56377715.chunk.js.map": "/cumple-naye-2020/static/js/2.56377715.chunk.js.map",
     "index.html": "/cumple-naye-2020/index.html",
-    "precache-manifest.c5b7e6acecbd168a8457b673ed8549b7.js": "/cumple-naye-2020/precache-manifest.c5b7e6acecbd168a8457b673ed8549b7.js",
+    "precache-manifest.bb1db936a9d6865be26b8cd4782eeb81.js": "/cumple-naye-2020/precache-manifest.bb1db936a9d6865be26b8cd4782eeb81.js",
     "service-worker.js": "/cumple-naye-2020/service-worker.js",
     "static/css/2.3beecd4b.chunk.css.map": "/cumple-naye-2020/static/css/2.3beecd4b.chunk.css.map",
-    "static/css/main.ef02dbd6.chunk.css.map": "/cumple-naye-2020/static/css/main.ef02dbd6.chunk.css.map",
-    "static/js/2.78b6890d.chunk.js.LICENSE.txt": "/cumple-naye-2020/static/js/2.78b6890d.chunk.js.LICENSE.txt"
+    "static/css/main.fc08b57c.chunk.css.map": "/cumple-naye-2020/static/css/main.fc08b57c.chunk.css.map",
+    "static/js/2.56377715.chunk.js.LICENSE.txt": "/cumple-naye-2020/static/js/2.56377715.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cumple-naye-2020/static/media/background.a1569924.jpg",
+    "static/media/present1.png": "/cumple-naye-2020/static/media/present1.df0e9a87.png",
+    "static/media/present2.png": "/cumple-naye-2020/static/media/present2.372194c7.png",
+    "static/media/present3.png": "/cumple-naye-2020/static/media/present3.be454983.png",
+    "static/media/subtitle.png": "/cumple-naye-2020/static/media/subtitle.82dbb6a8.png",
+    "static/media/title.png": "/cumple-naye-2020/static/media/title.39a425c4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c8e3eab6.js",
     "static/css/2.3beecd4b.chunk.css",
-    "static/js/2.78b6890d.chunk.js",
-    "static/css/main.ef02dbd6.chunk.css",
-    "static/js/main.59711f6e.chunk.js"
+    "static/js/2.56377715.chunk.js",
+    "static/css/main.fc08b57c.chunk.css",
+    "static/js/main.e1ba021f.chunk.js"
   ]
 }

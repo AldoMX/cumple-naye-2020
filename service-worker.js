@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cumple-naye-2020/precache-manifest.bb1db936a9d6865be26b8cd4782eeb81.js"
+  "/cumple-naye-2020/precache-manifest.f64387450c36ce60bc9d0b882d9f99be.js"
 );
 
 self.addEventListener('message', (event) => {

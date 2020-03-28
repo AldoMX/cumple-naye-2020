@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "779461aea0c65e113b7f16e86f892b19",
+    "revision": "d7262c079c828ec6b4c7abdd4e19214b",
     "url": "/cumple-naye-2020/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cumple-naye-2020/static/css/2.3beecd4b.chunk.css"
   },
   {
-    "revision": "518932aa6f43265d48db",
-    "url": "/cumple-naye-2020/static/css/main.f5f10c6b.chunk.css"
+    "revision": "ffc2798f3a72b0a4a77b",
+    "url": "/cumple-naye-2020/static/css/main.97b44676.chunk.css"
   },
   {
     "revision": "d190e49090cd938167d3",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cumple-naye-2020/static/js/2.56377715.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "518932aa6f43265d48db",
+    "revision": "ffc2798f3a72b0a4a77b",
     "url": "/cumple-naye-2020/static/js/main.e1ba021f.chunk.js"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cumple-naye-2020/static/js/runtime-main.c8e3eab6.js"
   },
   {
-    "revision": "3f0d54a58c0fd2c4f53a3d4d2652d66a",
-    "url": "/cumple-naye-2020/static/media/background.3f0d54a5.jpg"
+    "revision": "a156992447659c73fbd6e8d18f2a889b",
+    "url": "/cumple-naye-2020/static/media/background.a1569924.jpg"
   },
   {
     "revision": "df0e9a873c1545392ff87edafa6f42e1",
